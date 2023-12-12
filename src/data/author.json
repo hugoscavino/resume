@@ -1,19 +1,17 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "name": "Hugo Scavino",
+    "occupation": "Summer 2024 Intern",
+    "location": "Tampa, FL",
+    "avatar": "hugo_avatar.jpg",
+    "pronouns": "he/him",
+    "email": "hugo.scavino@mitchellhamline.edu",
+    "telephone": "(813) 313-0448",
+    "website": "https://www.hugoscavino.com",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Legal Writing",
+        "Legal Research",
+        "Immigration",
+        "Senior Software Developer"
     ],
     "languages": [
         {
@@ -21,12 +19,8 @@
             "level": "native"
         },
         {
-            "name": "German",
-            "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
+            "name": "Spanish",
+            "level": "intermediate"
         }
     ],
     "social": [
