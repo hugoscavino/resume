@@ -1,6 +1,6 @@
 {
     "name": "Hugo Scavino",
-    "occupation": "Summer 2024 Intern",
+    "occupation": "Second Career 3L – Top 23% - 3.46 GPA – Spanish Speaker",
     "location": "Tampa, FL",
     "avatar": "hugo_avatar.jpg",
     "pronouns": "he/him",
@@ -25,14 +25,9 @@
     ],
     "social": [
         {
-            "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
-        },
-        {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "hugoscavino",
+            "url": "https://www.linkedin.com/in/hugoscavino"
         }
     ]
 }
