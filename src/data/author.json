@@ -1,33 +1,30 @@
 {
-    "name": "Hugo Scavino",
-    "occupation": "Second Career 3L – Top 23% - 3.46 GPA – Spanish Speaker",
-    "location": "Tampa, FL",
-    "avatar": "hugo_avatar.jpg",
+    "name": "Paul Scavino",
+    "occupation": "UNF Marketing and Business Management Graduate and Community Supporter",
+    "location": "Jacksonville, FL",
+    "avatar": "paul_avatar.png",
     "pronouns": "he/him",
-    "email": "hugo.scavino@mitchellhamline.edu",
-    "telephone": "(813) 313-0448",
-    "website": "https://www.hugoscavino.com",
+    "email": "paul@scavino.org ",
+    "telephone": "(813) 774-2255",
+    "website": "https://www.paulscavino.com",
     "skills": [
-        "Legal Writing",
-        "Legal Research",
-        "Immigration",
-        "Senior Software Developer"
+        "HootSuite",
+        "Tableau Desktop Certified",
+        "Monday.com Project Management",
+        "Microsoft: Excel, Teams, Outlook",
+        "Google Suite"
     ],
     "languages": [
         {
             "name": "English",
             "level": "native"
-        },
-        {
-            "name": "Spanish",
-            "level": "intermediate"
         }
     ],
     "social": [
         {
             "name": "LinkedIn",
-            "user": "hugoscavino",
-            "url": "https://www.linkedin.com/in/hugoscavino"
+            "user": "paulscavino",
+            "url": "https://www.linkedin.com/in/paulscavino"
         }
     ]
 }
