@@ -4,4 +4,4 @@ title: Interests
 ---
 
 * Swim Team Captain and Florida State Swimming Finals
-* Fishing
+* Salt Water Fishing
