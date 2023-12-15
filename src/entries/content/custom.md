@@ -1,7 +1,38 @@
 ---
 tags: custom
-title: Interests
+title: Relevant Coursework
 ---
-
-* Swim Team Captain and Florida State Swimming Finals
-* Salt Water Fishing
+-   SOLIDWORKS Certification, Associate certificate for Mechanical Design
+-	Introduction to Computer Aided Engineering
+-	Principles of Electrical Engineering
+-	Engineering Analysis-Dynamics
+-	Introduction to Vibrations & Controls
+-	Structure & Properties of Materials
+-	Design & Analysis of Machine Composition 
+---
+## Classes Taken
+-	Fundamentals of Rehabilitation Engineering
+-	Introduction to Computer Aided Engineering
+-	Principles of Electrical Engineering
+-	Introduction to Programming
+-	Introduction to Vibrations & Controls
+-	Probability & Statistics for Engineers
+-	General Physics 1&2
+-	Calculus 1-3
+-	Solid Mechanics
+-	Engineering Concepts & Methods
+-	Mechatronics
+-	Structure & Properties of Materials
+-	Engineering Analysis-Dynamics
+-	Ordinary Differential Equations
+-	Thermodynamics
+-	Heat Transfer
+-	Fluid Mechanics
+-	Modeling Methods in Mechanical Engineering
+-	Design & Analysis of Machine Composition
+-	Engineering Design Practice
+-	Astronomy
+-	Engineering Biomechanics
+-	Heat Transfer II
+-	Digital Manufacturing
+-	Engineering Design I
