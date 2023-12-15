@@ -26,7 +26,13 @@
                 {% if entry.data.location %}
                     <span aria-hidden="true">&middot;</span>
                     <span class="p-location">{{ entry.data.location }}</span>
+
                 {% endif %}
+            </p>
+            <p class="entry__organization p-org h-card">
+                    {% if entry.data.gpa %}
+                        <span class="p-location">GPA: {{ entry.data.gpa }}</span>
+                    {% endif %}
             </p>
         {% endif %}
     </div>
